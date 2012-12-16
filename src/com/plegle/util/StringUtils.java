@@ -9,6 +9,7 @@ public String getaString() {
 
 public void setaString(String aString) {
 	this.aString = aString;
+	System.out.println("Bingo");
 }
 
 }
